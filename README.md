@@ -1,4 +1,4 @@
-## REDI_DataScience
+## REDI_DataScience_Project
 
 ### Energy Consumption Analysis
 
